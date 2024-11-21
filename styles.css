@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    background-color:rgba(0, 0, 0, 0.262) ;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+
+        
+    ul,li{
+    display: flex;
+    column-gap: 2cm;
+    list-style: none;
+    padding-right:25px;
+        }
+            button{
+        background-color:orange ;
+        width: 150px;
+        height:20px;
+    }
+
+
+}   
+.class{
+    background-repeat: no-repeat;
+    background-size: cover;
